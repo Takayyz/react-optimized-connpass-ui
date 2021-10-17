@@ -6,7 +6,7 @@ Reactでconnpassのカレンダーを実装する
 - TypeScript(後々)
 
 ## やりたいこと
-- CONNPASSの見にくいUI改善
+- CONNPASSのUI改善
 - 気になる勉強会の週間予定を表示
   - お気に入りの「ワード」登録
   - 気になる勉強会を検索できる
