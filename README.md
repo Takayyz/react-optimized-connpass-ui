@@ -15,3 +15,7 @@ Reactでconnpassのカレンダーを実装する
 
 ## 使用するAPI
 - https://connpass.com/about/api/
+
+## イメージ
+![](https://res.cloudinary.com/takayyz/image/upload/v1634477909/React/wire.png)
+
