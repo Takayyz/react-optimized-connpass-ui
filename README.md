@@ -19,7 +19,7 @@ git clone https://gitlab.com/Takayyz/react-optimized-connpass-ui.git && cd react
 docker-compose up -d
 ```
 
-3. ブラウザで[localhost:3000](localhost:3000)にアクセス
+3. ブラウザで[localhost:3000](http://localhost:3000)にアクセス
 
 <br>
 
