@@ -1,0 +1,32 @@
+.navbar-container {
+  width: 100%;
+  height: 10%;
+  background-color: teal;
+  border: 1px solid;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-logo {
+  height: 10vmin;
+  pointer-events: none;
+}
+
+.timetable-container {
+  width: 100%;
+  height: 90%;
+  background-color: whitesmoke;
+  border: 1px solid;
+}
+
+.weeklyschedule-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+}
+
+.timeline-container {
+  width: 200px;
+  height: 80vh;
+  background-color: beige;
+}
